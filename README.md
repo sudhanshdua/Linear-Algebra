@@ -1,5 +1,5 @@
 # Linear-Algebra
-Includes implementation of the following topics in both Python and MATLAB:
+Includes implementation of the following topics in Python:
 
 - vectors
 - matrix multiplications
