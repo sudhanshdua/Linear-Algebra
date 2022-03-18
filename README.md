@@ -1,4 +1,4 @@
-# Linear-Algebra
+# Linear Algebra
 Includes implementation of the following topics in Python:
 
 - vectors
