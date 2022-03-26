@@ -7,6 +7,7 @@ Includes implementation of the following topics in Python:
 - matrix rank
 - matrix spaces
 - Solving system of equations using Gaussian elimination
+- matrix determinant
 - matrix inverse
 - orthogonalization
 - least-squares projections
