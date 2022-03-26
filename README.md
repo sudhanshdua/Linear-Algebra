@@ -2,10 +2,11 @@
 Includes implementation of the following topics in Python:
 
 - vectors
-- matrix multiplications
+- matrix multiplication
 - matrix norms
-- matrix ranks
+- matrix rank
 - matrix spaces
+- Solving system of equations using Gaussian elimination
 - matrix determinant
 - matrix inverse
 - orthogonalization
