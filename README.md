@@ -6,11 +6,12 @@ Includes implementation of the following topics in Python:
 - matrix norms
 - matrix rank
 - matrix spaces
-- Solving system of equations using Gaussian elimination
 - matrix determinant
 - matrix inverse
+- Solving system of equations using Gaussian elimination
 - orthogonalization
 - least-squares projections
 - eigendecomposition
 - singular-value decomposition
-- Quadratic form and definiteness
+- Quadratic form
+- definiteness
