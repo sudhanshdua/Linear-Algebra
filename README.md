@@ -13,5 +13,4 @@ Includes implementation of the following topics in Python:
 - least-squares projections
 - eigendecomposition
 - singular-value decomposition
-- Quadratic form
-- definiteness
+- Quadratic form and definiteness
